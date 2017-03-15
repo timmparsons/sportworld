@@ -1,0 +1,22 @@
+{
+  "name": "sportworld",
+  "authors": [
+    "Tim Parsons <tim.m.parsons@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "masonry": "^4.1.1",
+    "imagesloaded": "^4.1.1"
+  }
+}
